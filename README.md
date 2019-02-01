@@ -37,6 +37,9 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 
 
+
+
+
 ## PYTHON BENZETİMLERİ
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
