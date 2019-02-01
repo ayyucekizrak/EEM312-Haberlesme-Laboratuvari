@@ -1,7 +1,10 @@
 # EEM312-Haberlesme-Laboratuvari
 <img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
-### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği,EEM 312 Haberleşme Laboratuvarı
+### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği, 
+### EEM 312 Haberleşme Laboratuvarı
+
+**Dersin Yürütücüsü: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 **Amaç:** Temel analog ve sayısal modülasyon türlerini pratik uygulamalı ve benzetim olarak gerçekleştirmek. Teorik olarak sinyaller ve sistemler, haberleşme teorisi gibi derslerde öğrenilen yöntemlerin gerçek hayatta kullanım alanları ve performansları hakkında bilgi sahibi olmak. Bunları uygulama yeteneğine sahip olmak.
 
@@ -27,7 +30,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
->> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
+> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
 - Temel Fonksiyonlar
 
@@ -54,5 +57,5 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
 
->> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
+> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
