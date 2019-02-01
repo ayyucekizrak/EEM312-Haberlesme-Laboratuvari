@@ -25,11 +25,11 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## DENEY FÖYLERİ 
 **(Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)**
 
-- Genlik Modülasyonu
-- Frekans Modülasyonu
-- Analog-Sayısal/Sayısal-Analog Dönüştürücü
-- Genlik Kaydırmalı Anahtarlama
-- Frekans Kaydırmalı Anahtarlama
+- [AM: Genlik Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/GM.pdf)
+- [FM: Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FM.pdf)
+- [Analog-Sayısal/Sayısal-Analog Dönüştürücü](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ADC_DAC.pdf)
+- [ASK: Genlik Kaydırmalı Anahtarlama](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK.pdf)
+- [FSK: Frekans Kaydırmalı Anahtarlama](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FSK.pdf)
 
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
