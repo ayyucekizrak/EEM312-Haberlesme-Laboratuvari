@@ -26,12 +26,12 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## DENEY FÖYLERİ 
 > (Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)
 
-- [1. HAFTA: MATLAB'te Temel Uygulamalar-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY1.pdf)
-- [2. HAFTA: Ayrık Zamanlı Sinyaller ve Sistemler-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY2.pdf)
-- [3. HAFTA: Sürekli ve Ayrık Sinyallerin Fourier Dönüşümü-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY3.pdf)
-- [4. HAFTA: Sayısal Filtreler-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY4.pdf)
-- [5. HAFTA: Genlik ve Frekans Modülasyonu-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY5.pdf)
-- [6. HAFTA: Sayısal Modülasyonlar-*Kaynak:YTÜ*](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY6.pdf)
+- [1. HAFTA: MATLAB'te Temel Uygulamalar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY1.pdf)-*Kaynak:YTÜ*
+- [2. HAFTA: Ayrık Zamanlı Sinyaller ve Sistemler](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY2.pdf)-*Kaynak:YTÜ*
+- [3. HAFTA: Sürekli ve Ayrık Sinyallerin Fourier Dönüşümü](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY3.pdf)-*Kaynak:YTÜ*
+- [4. HAFTA: Sayısal Filtreler](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY4.pdf)-*Kaynak:YTÜ*
+- [5. HAFTA: Genlik ve Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY5.pdf)-*Kaynak:YTÜ*
+- [6. HAFTA: Sayısal Modülasyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY6.pdf)-*Kaynak:YTÜ*
 
 - [AM: Genlik Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/GM.pdf)
 - [FM: Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FM.pdf)
