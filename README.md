@@ -4,7 +4,7 @@
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği, 
 ### EEM 312 Haberleşme Laboratuvarı
 
-**Dersin Yürütücüsü: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
+**Dersin Yürütücüsü:** [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 **Amaç:** Temel analog ve sayısal modülasyon türlerini pratik uygulamalı ve benzetim olarak gerçekleştirmek. Teorik olarak sinyaller ve sistemler, haberleşme teorisi gibi derslerde öğrenilen yöntemlerin gerçek hayatta kullanım alanları ve performansları hakkında bilgi sahibi olmak. Bunları uygulama yeteneğine sahip olmak.
 
