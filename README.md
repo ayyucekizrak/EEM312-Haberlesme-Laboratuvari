@@ -10,6 +10,8 @@
 
 **Gereklilikler:** Sinyaller ve sistemler, haberleşme teorisi temel bilgi seviyesi, laboratuvar kullanma disiplini beklenir. Bunun haricinde *MATLAB* ve *Python* ile uygulamaların benzetimleri için kurulumların yapılmış olduğu dizüstü bilgisayar ile derse gelinmesi beklenir.
 
+**Not:** Derse %80 oranında devam etme zorunluluğu vardır.
+
 
 
 ## DEĞERLENDİRME ÖLÇÜTLERİ
@@ -20,7 +22,9 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 * **Final Sınavı %60** - *Bu değerin %50 oranı deney sırasındaki kısa sınav ve ödevler ile belirlenecek, %50 oranı final sınavınızdan  aldığınız not ile belirlenerek hespalanacaktır.*
 
-## DENEY FÖYLERİ (Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları) 
+## DENEY FÖYLERİ 
+**(Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)**
+
 - Genlik Modülasyonu
 - Frekans Modülasyonu
 - Analog-Sayısal/Sayısal-Analog Dönüştürücü
