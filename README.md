@@ -27,14 +27,16 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
-
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
+- Temel Fonksiyonlar
+**Analog Modülasyonlar**
+- Genlik Modülasyonu
+- Frekans Modülasyonu
+- Faz Modülasyonu
 
-
-
-
-
+**Sayısal Modülasyonlar**
+- 
 
 
 
