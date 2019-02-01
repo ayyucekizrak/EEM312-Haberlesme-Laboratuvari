@@ -1,4 +1,4 @@
-# EEM312 Haberleşme Laboratuvarı
+# EEM312 Haberleşme Laboratuvarı [For English]()
 <img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
