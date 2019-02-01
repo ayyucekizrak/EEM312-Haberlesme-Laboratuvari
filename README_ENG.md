@@ -1,4 +1,5 @@
-# EEM312 Communication Laboratory [For Turkish]()
+# EEM312 Communication Laboratory 
+[For Turkish](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README.md)
 <img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Halic University, Electrics-Electronics Engineering 
