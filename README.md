@@ -7,6 +7,8 @@
 
 **Gereklilikler:** Sinyaller ve sistemler, haberleşme teorisi temel bilgi seviyesi, laboratuvar kullanma disiplini beklenir. Bunun haricinde *MATLAB* ve *Python* ile uygulamaların benzetimleri için kurulumların yapılmış olduğu dizüstü bilgisayar ile derse gelinmesi beklenir.
 
+
+
 ## DEĞERLENDİRME ÖLÇÜTLERİ
 
 Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak hesaplanacaktır. 
@@ -24,12 +26,20 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
+
+
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
 
 
 
+
+
+
+
 ## PYTHON BENZETİMLERİ
-<img align="right" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+<img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
+
+
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
