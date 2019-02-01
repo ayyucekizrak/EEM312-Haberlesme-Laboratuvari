@@ -30,16 +30,24 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
 - Temel Fonksiyonlar
+
 **Analog Modülasyonlar**
 - Genlik Modülasyonu
 - Frekans Modülasyonu
 - Faz Modülasyonu
 
+**Analog-Sayısal/Sayısal-Analog Dönüştürücü*
+
 **Sayısal Modülasyonlar**
-- 
-
-
-
+- PAM (Darbe Genlik Modülasyonu)
+- PCM (Darbe Kod Modülasyonu)
+- PWM (Darbe Genişlik Modülasyonu)
+- PPM (Darbe Durum Modülasyonu)
+- ASK (Genlik Kaydırmalı Anahtarlama)
+- FSK (Frekans Kaydırmalı Anahtarlama)
+- PSK (Faz Kaydırmalı Anahtarlama)
+- Delta Modülasyonu
+- QPSK (Dördül Faz Kaydırmalı Anahtarlama)
 
 
 ## PYTHON BENZETİMLERİ
