@@ -1,4 +1,5 @@
-# EEM312 Haberleşme Laboratuvarı [For English]()
+# EEM312 Haberleşme Laboratuvarı 
+[For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md)
 <img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
