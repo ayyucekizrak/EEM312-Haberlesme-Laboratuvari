@@ -1,8 +1,8 @@
-# EEM312-Haberlesme-Laboratuvari
+# EEM312 Haberleşme Laboratuvarı
 <img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
-### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği, 
-### EEM 312 Haberleşme Laboratuvarı
+### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
+### Haberleşme Laboratuvarı
 
 **Dersin Yürütücüsü:** [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
