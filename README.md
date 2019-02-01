@@ -26,6 +26,13 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## DENEY FÖYLERİ 
 > (Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)
 
+- [1. HAFTA: MATLAB'te Temel Uygulamalar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY1.pdf)
+- [2. HAFTA: Ayrık Zamanlı Sinyaller ve Sistemler](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY2.pdf)
+- [3. HAFTA: Sürekli ve Ayrık Sinyallerin Fourier Dönüşümü](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY3.pdf)
+- [4. HAFTA: Sayısal Filtreler](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY4.pdf)
+- [5. HAFTA: Genlik ve Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY5.pdf)
+- [6. HAFTA: Sayısal Modülasyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY6.pdf)
+
 - [AM: Genlik Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/GM.pdf)
 - [FM: Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FM.pdf)
 - [Analog-Sayısal/Sayısal-Analog Dönüştürücü](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ADC_DAC.pdf)
