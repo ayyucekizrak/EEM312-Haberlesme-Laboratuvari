@@ -23,7 +23,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 * **Final Sınavı %60** - *Bu değerin %50 oranı deney sırasındaki kısa sınav ve ödevler ile belirlenecek, %50 oranı final sınavınızdan  aldığınız not ile belirlenerek hespalanacaktır.*
 
 ## DENEY FÖYLERİ 
-**(Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)**
+<<(Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)>>
 
 - [AM: Genlik Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/GM.pdf)
 - [FM: Frekans Modülasyonu](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FM.pdf)
