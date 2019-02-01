@@ -1,5 +1,5 @@
 # EEM312-Haberlesme-Laboratuvari
-<img align="right" src="HÜ.jpg">
+<img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği,EEM 312 Haberleşme Laboratuvarı
 
@@ -23,10 +23,13 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 - Frekans Kaydırmalı Anahtarlama
 
 ## MATLAB BENZETİMLERİ
-<img align="left" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
+<img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
+
+
+
 ## PYTHON BENZETİMLERİ
-<img align="left" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+<img align="right" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
 >> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
