@@ -39,7 +39,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 - Frekans Modülasyonu
 - Faz Modülasyonu
 
-**Analog-Sayısal/Sayısal-Analog Dönüştürücü*
+**Analog-Sayısal/Sayısal-Analog Dönüştürücü**
 
 **Sayısal Modülasyonlar**
 - PAM (Darbe Genlik Modülasyonu)
