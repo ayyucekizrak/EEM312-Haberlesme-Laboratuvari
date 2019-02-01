@@ -14,18 +14,18 @@
 ## EXPERIMENTS 
 > (Notes for hardware applications to be performed on the experimental sets.)
 
-- [AM: Amplitude Modulation]
-- [FM: Frequency Modulation]
-- [Analog-Digital/Digital-Analog Convertor]
-- [ASK: Amplitude Shift Keying]
-- [FSK: Frequency Shift Keying]
+- [AM: Amplitude Modulation](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/2-modul-2-ENG.pdf)
+- [FM: Frequency Modulation](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/3-modul-3-ENG.pdf)
+- [Analog-Digital/Digital-Analog Convertor](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/4-modul-4-ENG.pdf)
+- [ASK: Amplitude Shift Keying](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/6-ASK-2016-ENG.pdf)
+- [FSK: Frequency Shift Keying](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/7-FSK-2016-ENG.pdf)
 
 ## MATLAB SIMULATION
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
 > This section will be updated every week as you conduct the experiment. 
 
-- Basic Function
+- Basic Functions
 
 **Analog Modulation**
 - Amplitude Modulation
