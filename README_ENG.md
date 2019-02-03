@@ -48,7 +48,7 @@
 
 ## PYTHON SIMULATION
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
-[Introduction to Python](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb)-*[Reference](https://github.com/fuatbeser)*
+[Introduction to Python](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb) - [Reference](https://github.com/fuatbeser)
 
 > This section will be updated every week as you conduct the experiment.
 
