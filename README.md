@@ -69,7 +69,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
 
-> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. [Python Başlangıç Rehberi](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb) - *[Kaynak](https://github.com/fuatbeser)*
+> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
 [Python Başlangıç Rehberi](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb)-*[Kaynak](https://github.com/fuatbeser)*
 
