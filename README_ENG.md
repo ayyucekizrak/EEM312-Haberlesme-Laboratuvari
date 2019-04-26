@@ -1,5 +1,5 @@
-# EEM312 Communication Laboratory 
-[For Turkish](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README.md)
+# EEM312 Communication Laboratory 📡 📻 🔉 📺 ☎️ 💻
+[For Turkish](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README.md) :tr:
 
 ### Halic University, Electrics-Electronics Engineering 
 ### Communication Laboratory
@@ -10,7 +10,7 @@
 
 **Requirements:** Signals and systems, basic knowledge level of communication theory, the discipline of laboratory use are expected. In addition, *MATLAB* and *Pytho*n with applications to simulate the installation of the laptop computer is expected to come to class.
 
-## EXPERIMENTS 
+## EXPERIMENTS 📚
 > (Notes for hardware applications to be performed on the experimental sets.)
 
 - [AM: Amplitude Modulation](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/2-modul-2-ENG.pdf)
@@ -19,7 +19,7 @@
 - [ASK: Amplitude Shift Keying](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/6-ASK-2016-ENG.pdf)
 - [FSK: Frequency Shift Keying](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/7-FSK-2016-ENG.pdf)
 
-## MATLAB SIMULATION
+## MATLAB SIMULATION 📊
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
 - **[BASIC FUNCTIONS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
@@ -52,7 +52,7 @@
 
 
 
-## PYTHON SIMULATION
+## PYTHON SIMULATION 📊
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
 - **[Python Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
