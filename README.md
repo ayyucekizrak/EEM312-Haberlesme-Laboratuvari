@@ -42,27 +42,25 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
 - **[TEMEL FONKSİYONLAR](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
-- **[AYRIK ZAMANLI SİNYALLER VE SİSTEMLER](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY2.m)
-- **[SÜREKLİ VE AYRIK ZAMANLI İŞARETLERİN FOURIER DÖNÜŞÜMÜ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY3.m)
+- **[AYRIK ZAMANLI SİNYALLER VE SİSTEMLER](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY2.m)**
+- **[SÜREKLİ VE AYRIK ZAMANLI İŞARETLERİN FOURIER DÖNÜŞÜMÜ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY3.m)**
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/AGF.PNG)
 
 ### ANALOG MODÜLASYONLAR
 - **[GENLİK VE FREKANS MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)
 ### SAYISAL MODÜLASYONLAR
 - **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation)](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/%C3%96RNEKLEME.PNG)
 - **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation) & DSB MOD.](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
 - **[DARBE KOD MODÜLASYONU (PCM-Pulse Code Modulation) & KUANTALAMA](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY6.m)
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/KUANTALAMA.PNG)
 - **[ASK(Genlik Kaydırmalı Anahtarlama) & FSK (Frekans Kaydırmalı Anahtarlama) & PSK (Faz Kaydırmalı Anahtarlama) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
 - **[DELTA MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)
-
-
 
 
 ## PYTHON BENZETİMLERİ
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
-
-
-> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
 [Python Başlangıç Rehberi]()*
 
