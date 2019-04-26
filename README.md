@@ -1,11 +1,10 @@
 # EEM312 Haberleşme Laboratuvarı 
 [For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md)
-<img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
 ### Haberleşme Laboratuvarı
 
-**Dersin Yürütücüsü:** [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
+**Dersin Yürütücüsü (2009-2018):** [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 **Amaç:** Temel analog ve sayısal modülasyon türlerini pratik uygulamalı ve benzetim olarak gerçekleştirmek. Teorik olarak sinyaller ve sistemler, haberleşme teorisi gibi derslerde öğrenilen yöntemlerin gerçek hayatta kullanım alanları ve performansları hakkında bilgi sahibi olmak. Bunları uygulama yeteneğine sahip olmak.
 
@@ -71,5 +70,5 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 > Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
 
-[Python Başlangıç Rehberi](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb)-*[Kaynak](https://github.com/fuatbeser)*
+[Python Başlangıç Rehberi]()*
 
