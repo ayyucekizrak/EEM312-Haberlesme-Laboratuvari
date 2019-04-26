@@ -1,5 +1,5 @@
 # EEM312 Haberleşme Laboratuvarı 
-[For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md)
+[For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md) :us:
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
 ### Haberleşme Laboratuvarı
