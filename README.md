@@ -73,4 +73,9 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 - **[Python Temelleri](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
 - **[Python Tutorial](https://docs.python.org/3/tutorial/)**
+---
+- **[Sinyal Üretme]()**
+- **[AM & FM]()**
+- **[PSK]()**
+- **[Sayısal Haberleşme - Simon Haykin](https://tbc-python.fossee.in/book-details/386/)**
 
