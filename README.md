@@ -41,25 +41,21 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
-- [Temel Fonksiyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)
+- **[TEMEL FONKSİYONLAR](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
+- **[AYRIK ZAMANLI SİNYALLER VE SİSTEMLER](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY2.m)
+- **[SÜREKLİ VE AYRIK ZAMANLI İŞARETLERİN FOURIER DÖNÜŞÜMÜ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY3.m)
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/AGF.PNG)
 
-**[Analog Modülasyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)**
-- Genlik Modülasyonu
-- Frekans Modülasyonu
-- Faz Modülasyonu
+### ANALOG MODÜLASYONLAR
+- **[GENLİK VE FREKANS MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)
+### SAYISAL MODÜLASYONLAR
+- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation)](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
+- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation) & DSB MOD.](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
+- **[DARBE KOD MODÜLASYONU (PCM-Pulse Code Modulation) & KUANTALAMA](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY6.m)
+- **[ASK(Genlik Kaydırmalı Anahtarlama) & FSK (Frekans Kaydırmalı Anahtarlama) & PSK (Faz Kaydırmalı Anahtarlama) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)
+- **[DELTA MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)
 
-**[Analog-Sayısal/Sayısal-Analog Dönüştürücü]**
 
-**Sayısal Modülasyonlar**
-- PAM (Darbe Genlik Modülasyonu)
-- PCM (Darbe Kod Modülasyonu)
-- PWM (Darbe Genişlik Modülasyonu)
-- PPM (Darbe Durum Modülasyonu)
-- ASK (Genlik Kaydırmalı Anahtarlama)
-- FSK (Frekans Kaydırmalı Anahtarlama)
-- PSK (Faz Kaydırmalı Anahtarlama)
-- Delta Modülasyonu
-- QPSK (Dördül Faz Kaydırmalı Anahtarlama)
 
 
 ## PYTHON BENZETİMLERİ
