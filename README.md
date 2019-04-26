@@ -64,12 +64,13 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 - **[ASK(Genlik Kaydırmalı Anahtarlama) & FSK (Frekans Kaydırmalı Anahtarlama) & PSK (Faz Kaydırmalı Anahtarlama) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)**
 
-![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
 - **[DELTA MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)**
 
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
 
 ## PYTHON BENZETİMLERİ
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
-[Python Başlangıç Rehberi]()*
+- **[Python Temelleri](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
+- **[Python Tutorial](https://docs.python.org/3/tutorial/)**
 
