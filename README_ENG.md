@@ -58,3 +58,8 @@
 - **[Python Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
 - **[Python Tutorial](https://docs.python.org/3/tutorial/)**
 
+---
+- **[Signal Generator]()**
+- **[AM & FM]()**
+- **[PSK]()**
+- **[Digital Communication - Simon Haykin](https://tbc-python.fossee.in/book-details/386/)**
