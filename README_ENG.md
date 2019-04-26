@@ -1,4 +1,4 @@
-# EEM312 Communication Laboratory 📡 📻 🔉 📺 ☎️ 💻
+# EEM312 Communication Lab. 📡 📻 🔉 📺 ☎️ 💻
 [For Turkish](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README.md) :tr:
 
 ### Halic University, Electrics-Electronics Engineering 
