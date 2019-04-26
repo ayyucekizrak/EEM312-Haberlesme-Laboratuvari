@@ -59,7 +59,7 @@
 - **[Python Tutorial](https://docs.python.org/3/tutorial/)**
 
 ---
-- **[Signal Generator]()**
-- **[AM & FM]()**
-- **[PSK]()**
+- **[Signal Generator](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/Sinyal_%C3%9Cretme_Signal_Generator.ipynb)**
+- **[AM & FM](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/AM_FM.ipynb)**
+- **[PSK](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/PSK.ipynb)**
 - **[Digital Communication - Simon Haykin](https://tbc-python.fossee.in/book-details/386/)**
