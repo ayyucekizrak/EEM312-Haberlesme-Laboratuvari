@@ -42,21 +42,30 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
 - **[TEMEL FONKSİYONLAR](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
+
 - **[AYRIK ZAMANLI SİNYALLER VE SİSTEMLER](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY2.m)**
+
 - **[SÜREKLİ VE AYRIK ZAMANLI İŞARETLERİN FOURIER DÖNÜŞÜMÜ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY3.m)**
+
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/AGF.PNG)
 
 ### ANALOG MODÜLASYONLAR
-- **[GENLİK VE FREKANS MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)
+- **[GENLİK VE FREKANS MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)**
+
 ### SAYISAL MODÜLASYONLAR
-- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation)](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
+- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation)](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)**
+
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/%C3%96RNEKLEME.PNG)
-- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation) & DSB MOD.](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)
-- **[DARBE KOD MODÜLASYONU (PCM-Pulse Code Modulation) & KUANTALAMA](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY6.m)
+- **[DARBE GENLİK MODÜLASYONU (PAM-Pulse Amplitude Modulation) & DSB MOD.](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)**
+
+- **[DARBE KOD MODÜLASYONU (PCM-Pulse Code Modulation) & KUANTALAMA](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY6.m)**
+
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/KUANTALAMA.PNG)
-- **[ASK(Genlik Kaydırmalı Anahtarlama) & FSK (Frekans Kaydırmalı Anahtarlama) & PSK (Faz Kaydırmalı Anahtarlama) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)
+
+- **[ASK(Genlik Kaydırmalı Anahtarlama) & FSK (Frekans Kaydırmalı Anahtarlama) & PSK (Faz Kaydırmalı Anahtarlama) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)**
+
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
-- **[DELTA MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)
+- **[DELTA MODÜLASYONU](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)**
 
 
 ## PYTHON BENZETİMLERİ
