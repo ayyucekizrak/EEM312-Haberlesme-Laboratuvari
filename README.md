@@ -41,16 +41,14 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 ## MATLAB BENZETİMLERİ
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
-> Bu kısım her hafta deneyi gerçekleştirdikçe güncellenecektir. 
+- [Temel Fonksiyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)
 
-- Temel Fonksiyonlar
-
-**Analog Modülasyonlar**
+**[Analog Modülasyonlar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)**
 - Genlik Modülasyonu
 - Frekans Modülasyonu
 - Faz Modülasyonu
 
-**Analog-Sayısal/Sayısal-Analog Dönüştürücü**
+**[Analog-Sayısal/Sayısal-Analog Dönüştürücü]**
 
 **Sayısal Modülasyonlar**
 - PAM (Darbe Genlik Modülasyonu)
