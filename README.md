@@ -74,8 +74,8 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 - **[Python Temelleri](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
 - **[Python Tutorial](https://docs.python.org/3/tutorial/)**
 ---
-- **[Sinyal Üretme]()**
-- **[AM & FM]()**
-- **[PSK]()**
+- **[Sinyal Üretme](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/Sinyal_%C3%9Cretme_Signal_Generator.ipynb)**
+- **[AM & FM](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/AM_FM.ipynb)**
+- **[PSK](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/PYTHONKOD/PSK.ipynb)**
 - **[Sayısal Haberleşme - Simon Haykin](https://tbc-python.fossee.in/book-details/386/)**
 
