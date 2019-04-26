@@ -1,6 +1,5 @@
 # EEM312 Communication Laboratory 
 [For Turkish](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README.md)
-<img align="right" src="https://www.tercihrobotu.com.tr/MediaFiles/Universities/Logos/LGB_2019_1.png">
 
 ### Halic University, Electrics-Electronics Engineering 
 ### Communication Laboratory
@@ -23,33 +22,39 @@
 ## MATLAB SIMULATION
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
-> This section will be updated every week as you conduct the experiment. 
+- **[BASIC FUNCTIONS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
 
-- Basic Functions
+- **[DISCRETE-TIME SIGNALS AND SYSTEMS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY2.m)**
 
-**Analog Modulation**
-- Amplitude Modulation
-- Frequency Modulation
-- Phase Modulation
+- **[FOURIER TRANSFORM OF CONTUNUOUS AND DISCREYE TIME SIGNALS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY3.m)**
 
-**Analog-Digital/Digital-Analog Convertor**
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/AGF.PNG)
 
-**Digital Modulation**
-- PAM (Pulse-Amplitude Modulation)
-- PCM (Pulse-Code Modulation)
-- PWM (Pulse-Width Modulation)
-- PPM (Pulse-Position Modulation)
-- ASK (Amplitude Shift Keying)
-- FSK (Frequency Shift Keying)
-- PSK (Phase Shift Keying)
-- Delta Modulation
-- QPSK (Quadro Phase Shift Modulation)
+### ANALOG MODULATIONS
+- **[AMPLITUDE AND FREQUENCY MODULATIONS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY4.m)**
+
+### DIGITAL MODULATIONS
+- **[PAM - Pulse Amplitude Modulation](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)**
+
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/%C3%96RNEKLEME.PNG)
+
+- **[PAM - Pulse Amplitude Modulation) & DSB MOD.](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY5.m)**
+
+- **[PCM - Pulse Code Modulation) & QUANTA](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY6.m)**
+
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/KUANTALAMA.PNG)
+
+- **[ASK(Amplitude Shift Keying) & FSK (Frequency Shift Keyinga) & PSK (Phase Shift Keying) ](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY7.m)**
+
+- **[DELTA MODULATIONS](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY8.m)**
+
+![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
+
 
 
 ## PYTHON SIMULATION
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
-> This section will be updated every week as you conduct the experiment.
-
-[Introduction to Python](https://github.com/fuatbeser/python-notlarim/blob/master/python_turkce_baslangic.ipynb) - [Reference](https://github.com/fuatbeser)
+- **[Python Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
+- **[Python Tutorial](https://docs.python.org/3/tutorial/)**
 
