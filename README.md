@@ -1,5 +1,5 @@
-# EEM312 Haberleşme Laboratuvarı 
-[For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md) :flag:
+# EEM312 Haberleşme Laboratuvarı :satellite: :radio: :sound: :tv: :phone: :computer: 
+[For English](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/README_ENG.md) :statue_of_liberty:
 
 ### Haliç Üniversitesi, Elektrik-Elektronik Mühendisliği 
 ### Haberleşme Laboratuvarı
@@ -14,7 +14,7 @@
 
 
 
-## DEĞERLENDİRME ÖLÇÜTLERİ
+## DEĞERLENDİRME ÖLÇÜTLERİ :pencil:
 
 Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak hesaplanacaktır. 
 
@@ -22,7 +22,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 * **Final Sınavı %60** - *Bu değerin %50 oranı deney sırasındaki kısa sınav ve ödevler ile belirlenecek, %50 oranı final sınavınızdan  aldığınız not ile belirlenerek hespalanacaktır.*
 
-## DENEY FÖYLERİ 
+## DENEY FÖYLERİ :books:
 > (Setler üzerinde gerçekleştirilecek olan donanım uygulamaları için .pdf dosyaları)
 
 - [1. HAFTA: MATLAB'te Temel Uygulamalar](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/DENEY1.pdf)-*Kaynak:YTÜ*
@@ -38,7 +38,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 - [ASK: Genlik Kaydırmalı Anahtarlama](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK.pdf)
 - [FSK: Frekans Kaydırmalı Anahtarlama](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/FSK.pdf)
 
-## MATLAB BENZETİMLERİ
+## MATLAB BENZETİMLERİ :bar_chart:
 <img align="right" src="https://www.computerhope.com/jargon/m/matlab-logo.jpg">
 
 - **[TEMEL FONKSİYONLAR](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/MATLAB_KODLARI/DENEY1.m)**
@@ -68,7 +68,7 @@ Dönem sonu başarı notunuz aşağıdaki kriterler göz önünde bulundurularak
 
 ![](https://github.com/ayyucekizrak/EEM312-Haberlesme-Laboratuvari/blob/master/ASK_FSK_PSK.PNG)
 
-## PYTHON BENZETİMLERİ
+## PYTHON BENZETİMLERİ :bar_chart:
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
 - **[Python Temelleri](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)**
